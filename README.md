@@ -1,2 +1,2 @@
-# sonarqube-opeconver
+# sonarqube-opeconver-nunit
 .bat script
